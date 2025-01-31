@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T" format="2">
+  <advance width="772"/>
+  <unicode hex="0054"/>
+  <outline>
+    <contour>
+      <point x="598" y="-5" type="line"/>
+      <point x="598" y="82" type="line"/>
+      <point x="600" y="152" type="line"/>
+      <point x="516" y="82" type="line"/>
+      <point x="479" y="82" type="line"/>
+      <point x="479" y="721" type="line"/>
+      <point x="727" y="721" type="line"/>
+      <point x="792" y="820" type="line"/>
+      <point x="45" y="820" type="line"/>
+      <point x="-20" y="721" type="line"/>
+      <point x="342" y="721" type="line"/>
+      <point x="341" y="80" type="line"/>
+      <point x="339" y="82" type="line"/>
+      <point x="304" y="82" type="line"/>
+      <point x="220" y="152" type="line"/>
+      <point x="222" y="82" type="line"/>
+      <point x="222" y="-5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>holihai_default/public.default</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

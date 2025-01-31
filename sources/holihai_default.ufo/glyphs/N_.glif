@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N" format="2">
+  <advance width="929"/>
+  <unicode hex="004E"/>
+  <outline>
+    <contour>
+      <point x="35" y="820" type="line"/>
+      <point x="-30" y="721" type="line"/>
+      <point x="128" y="721" type="line"/>
+      <point x="128" y="82" type="line"/>
+      <point x="92.80281829833984" y="82" type="line"/>
+      <point x="9" y="152" type="line"/>
+      <point x="11" y="82" type="line"/>
+      <point x="11" y="-5" type="line"/>
+      <point x="223" y="-7" type="line"/>
+      <point x="211" y="643" type="line"/>
+      <point x="698" y="-10" type="line"/>
+      <point x="905" y="-5" type="line"/>
+      <point x="905" y="82" type="line"/>
+      <point x="907" y="152" type="line"/>
+      <point x="823" y="82" type="line"/>
+      <point x="786" y="82" type="line"/>
+      <point x="786" y="721" type="line"/>
+      <point x="894" y="721" type="line"/>
+      <point x="959" y="820" type="line"/>
+      <point x="556" y="820" type="line"/>
+      <point x="491" y="721" type="line"/>
+      <point x="689" y="721" type="line"/>
+      <point x="696" y="477" type="line"/>
+      <point x="703" y="185" type="line"/>
+      <point x="271" y="717" type="line"/>
+      <point x="265" y="721" type="line"/>
+      <point x="373" y="721" type="line"/>
+      <point x="438" y="820" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>holihai_default/public.default</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

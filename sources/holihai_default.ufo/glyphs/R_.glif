@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R" format="2">
+  <advance width="772"/>
+  <unicode hex="0052"/>
+  <outline>
+    <contour>
+      <point x="203" y="80" type="line"/>
+      <point x="157" y="82" type="line"/>
+      <point x="73" y="152" type="line"/>
+      <point x="75" y="82" type="line"/>
+      <point x="75" y="-5" type="line"/>
+      <point x="204" y="-7" type="line"/>
+      <point x="342" y="-6" type="line"/>
+      <point x="341" y="82" type="line"/>
+      <point x="341" y="343.0812683105469" type="line"/>
+      <point x="620" y="0" type="line"/>
+      <point x="790" y="-5" type="line"/>
+      <point x="792" y="152" type="line"/>
+      <point x="708" y="82" type="line"/>
+      <point x="671" y="82" type="line"/>
+      <point x="463.00689697265625" y="331.77337646484375" type="line"/>
+      <point x="576.5228881835938" y="346.72076416015625"/>
+      <point x="666" y="453.71539306640625"/>
+      <point x="666" y="559.5" type="curve" smooth="yes"/>
+      <point x="666" y="624.8798828125"/>
+      <point x="632.526123046875" y="683.1632080078125"/>
+      <point x="580.2861328125" y="721" type="curve"/>
+      <point x="689" y="721" type="line"/>
+      <point x="754" y="820" type="line"/>
+      <point x="45" y="820" type="line"/>
+      <point x="-20" y="721" type="line"/>
+      <point x="204" y="721" type="line"/>
+    </contour>
+    <contour>
+      <point x="535" y="555" type="curve" smooth="yes"/>
+      <point x="535" y="471"/>
+      <point x="415" y="413"/>
+      <point x="350" y="413" type="curve" smooth="yes"/>
+      <point x="346.9826965332031" y="413"/>
+      <point x="343.98095703125" y="413.1556091308594"/>
+      <point x="341" y="413.4609069824219" type="curve"/>
+      <point x="341" y="721" type="line"/>
+      <point x="410.5079345703125" y="721" type="line"/>
+      <point x="470.1526184082031" y="690.724853515625"/>
+      <point x="535" y="619.6779174804688"/>
+    </contour>
+    <contour>
+      <point x="341" y="348.3428649902344" type="line"/>
+      <point x="341" y="348.6282043457031" type="line"/>
+      <point x="341.19085693359375" y="348.5492248535156"/>
+      <point x="341.3818664550781" y="348.4704895019531"/>
+      <point x="341.5730285644531" y="348.3919677734375" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>holihai_default/public.default</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
