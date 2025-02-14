@@ -1,16 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="B.1" format="2">
-  <advance width="914"/>
+  <advance width="814"/>
   <outline>
-    <component base="asterisk" xScale="0.05" yScale="0.05" xOffset="164" yOffset="471"/>
+    <component base="asterisk" xScale="0.05" yScale="0.05" xOffset="192.439" yOffset="764.75"/>
   </outline>
-  <lib>
-    <dict>
-      <key>xyz.fontra.layer-names</key>
-      <dict>
-        <key>holihai_default/public.default</key>
-        <string>default</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

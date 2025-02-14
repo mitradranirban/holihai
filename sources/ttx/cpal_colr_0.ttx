@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.55">
+
+  <CPAL>
+    <version value="0"/>
+    <numPaletteEntries value="4"/>
+    <palette index="0">
+      <color index="0" value="#888888FF"/>
+      <color index="1" value="#AF1490FF"/>
+      <color index="2" value="#FF9900FF"/>
+      <color index="3" value="#599500FF"/>
+    </palette>
+    
+      
+  </CPAL>
+  
+  <COLR>
+    <version value="0"/>
+    <ColorGlyph name="A">
+      <layer colorID="0" name="A.0"/>
+      <layer colorID="1" name="A.1"/>
+      <layer colorID="2" name="A.2"/>
+      <layer colorID="3" name="A.3"/>
+    </ColorGlyph>
+    <ColorGlyph name="B">
+      <layer colorID="0" name="B.0"/>
+      <layer colorID="1" name="B.1"/>
+      <layer colorID="2" name="B.2"/>
+      <layer colorID="3" name="B.3"/>
+    </ColorGlyph>
+    <ColorGlyph name="C">
+      <layer colorID="0" name="C.0"/>
+      <layer colorID="1" name="C.1"/>
+      <layer colorID="2" name="C.2"/>
+      <layer colorID="3" name="C.3"/>
+    </ColorGlyph>
+    <ColorGlyph name="D">
+      <layer colorID="0" name="D.0"/>
+      <layer colorID="1" name="D.1"/>
+      <layer colorID="2" name="D.2"/>
+      <layer colorID="3" name="D.3"/>
+    </ColorGlyph>
+    <ColorGlyph name="E">
+      <layer colorID="0" name="E.0"/>
+      <layer colorID="1" name="E.1"/>
+      <layer colorID="2" name="E.2"/>
+      <layer colorID="3" name="E.3"/>
+    </ColorGlyph>
+    <ColorGlyph name="F">
+      <layer colorID="0" name="F.0"/>
+      <layer colorID="1" name="F.1"/>
+      <layer colorID="2" name="F.2"/>
+      <layer colorID="3" name="F.3"/>
+    </ColorGlyph>
+    <ColorGlyph name="G">
+      <layer colorID="0" name="G.0"/>
+      <layer colorID="1" name="G.1"/>
+      <layer colorID="2" name="G.2"/>
+      <layer colorID="3" name="G.3"/>
+    </ColorGlyph>
+    <ColorGlyph name="H">
+      <layer colorID="0" name="H.0"/>
+      <layer colorID="1" name="H.1"/>
+      <layer colorID="2" name="H.2"/>
+      <layer colorID="3" name="H.3"/>
+    </ColorGlyph>
+    <ColorGlyph name="I">
+      <layer colorID="0" name="I.0"/>
+      <layer colorID="1" name="I.1"/>
+      <layer colorID="2" name="I.2"/>
+      <layer colorID="3" name="I.3"/>
+    </ColorGlyph>
+    <ColorGlyph name="J">
+      <layer colorID="0" name="J.0"/>
+      <layer colorID="1" name="J.1"/>
+      <layer colorID="2" name="J.2"/>
+      <layer colorID="3" name="J.3"/>
+    </ColorGlyph>
+    <ColorGlyph name="K">
+      <layer colorID="0" name="K.0"/>
+      <layer colorID="1" name="K.1"/>
+      <layer colorID="2" name="K.2"/>
+      <layer colorID="3" name="K.3"/>
+    </ColorGlyph>
+    <ColorGlyph name="L">
+      <layer colorID="0" name="L.0"/>
+      <layer colorID="1" name="L.1"/>
+      <layer colorID="2" name="L.2"/>
+      <layer colorID="3" name="L.3"/>
+    </ColorGlyph>
+    <ColorGlyph name="M">
+      <layer colorID="0" name="M.0"/>
+      <layer colorID="1" name="M.1"/>
+      <layer colorID="2" name="M.2"/>
+      <layer colorID="3" name="M.3"/>
+    </ColorGlyph>
+    <ColorGlyph name="N">
+      <layer colorID="0" name="N.0"/>
+      <layer colorID="1" name="N.1"/>
+      <layer colorID="2" name="N.2"/>
+      <layer colorID="3" name="N.3"/>
+    </ColorGlyph>
+    <ColorGlyph name="O">
+      <layer colorID="0" name="O.0"/>
+      <layer colorID="1" name="O.1"/>
+      <layer colorID="2" name="O.2"/>
+      <layer colorID="3" name="O.3"/>
+    </ColorGlyph>
+    <ColorGlyph name="P">
+      <layer colorID="0" name="P.0"/>
+      <layer colorID="1" name="P.1"/>
+      <layer colorID="2" name="P.2"/>
+      <layer colorID="3" name="P.3"/>
+    </ColorGlyph>
+    <ColorGlyph name="Q">
+      <layer colorID="0" name="Q.0"/>
+      <layer colorID="1" name="Q.1"/>
+      <layer colorID="2" name="Q.2"/>
+      <layer colorID="3" name="Q.3"/>
+    </ColorGlyph>
+    <ColorGlyph name="R">
+      <layer colorID="0" name="R.0"/>
+      <layer colorID="1" name="R.1"/>
+      <layer colorID="2" name="R.2"/>
+      <layer colorID="3" name="R.3"/>
+    </ColorGlyph>
+    <ColorGlyph name="S">
+      <layer colorID="0" name="S.0"/>
+      <layer colorID="1" name="S.1"/>
+      <layer colorID="2" name="S.2"/>
+      <layer colorID="3" name="S.3"/>
+    </ColorGlyph>
+    <ColorGlyph name="T">
+      <layer colorID="0" name="T.0"/>
+      <layer colorID="1" name="T.1"/>
+      <layer colorID="2" name="T.2"/>
+      <layer colorID="3" name="T.3"/>
+    </ColorGlyph>
+    <ColorGlyph name="U">
+      <layer colorID="0" name="U.0"/>
+      <layer colorID="1" name="U.1"/>
+      <layer colorID="2" name="U.2"/>
+      <layer colorID="3" name="U.3"/>
+    </ColorGlyph>
+    <ColorGlyph name="V">
+      <layer colorID="0" name="V.0"/>
+      <layer colorID="1" name="V.1"/>
+      <layer colorID="2" name="V.2"/>
+      <layer colorID="3" name="V.3"/>
+    </ColorGlyph>
+    <ColorGlyph name="W">
+      <layer colorID="0" name="W.0"/>
+      <layer colorID="1" name="W.1"/>
+      <layer colorID="2" name="W.2"/>
+      <layer colorID="3" name="W.3"/>
+    </ColorGlyph>
+    <ColorGlyph name="X">
+      <layer colorID="0" name="X.0"/>
+      <layer colorID="1" name="X.1"/>
+      <layer colorID="2" name="X.2"/>
+      <layer colorID="3" name="X.3"/>
+    </ColorGlyph>
+    <ColorGlyph name="Y">
+      <layer colorID="0" name="Y.0"/>
+      <layer colorID="1" name="Y.1"/>
+      <layer colorID="2" name="Y.2"/>
+      <layer colorID="3" name="Y.3"/>
+    </ColorGlyph>
+    <ColorGlyph name="Z">
+      <layer colorID="0" name="Z.0"/>
+      <layer colorID="1" name="Z.1"/>
+      <layer colorID="2" name="Z.2"/>
+      <layer colorID="3" name="Z.3"/>
+    </ColorGlyph>
+  </COLR>
+</ttFont>
+    
+    
+ 

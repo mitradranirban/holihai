@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K.0" format="2">
+  <advance width="925"/>
+  <outline>
+    <component base="K" xOffset="-7"/>
+  </outline>
+  <lib>
+    <dict/>
+  </lib>
+</glyph>

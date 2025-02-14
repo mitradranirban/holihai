@@ -1,9 +1,10 @@
 SplineFontDB: 3.0
-FontName: Untitled
-FullName: Untitled
-FamilyName: Untitled
+FontName: HoliHai
+FullName: Holi Hai 
+FamilyName: HoliHai
 Weight: Regular
-StyleMapFamilyName: 
+Copyright: Copyright 2025 Dr Anirban Mitra 
+Version: 0.5
 ItalicAngle: 0
 UnderlinePosition: 0
 UnderlineWidth: 0
@@ -18,42 +19,69 @@ FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1738338692
-ModificationTime: 1738339174
+CreationTime: 1739529163
+ModificationTime: 1739530081
 PfmFamily: 16
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
-OS2TypoAscent: 0
-OS2TypoAOffset: 1
-OS2TypoDescent: 0
-OS2TypoDOffset: 1
+OS2TypoAscent: 800
+OS2TypoAOffset: 0
+OS2TypoDescent: -200
+OS2TypoDOffset: 0
 OS2TypoLinegap: 0
-OS2WinAscent: 0
-OS2WinAOffset: 1
-OS2WinDescent: 0
-OS2WinDOffset: 1
-HheadAscent: 0
-HheadAOffset: 1
-HheadDescent: 0
-HheadDOffset: 1
+OS2WinAscent: 820
+OS2WinAOffset: 0
+OS2WinDescent: 200
+OS2WinDOffset: 0
+HheadAscent: 820
+HheadAOffset: 0
+HheadDescent: -200
+HheadDOffset: 0
+OS2CapHeight: 750
+OS2XHeight: 500
+OS2Vendor: 'anir'
+MarkAttachClasses: 1
 DEI: 91125
-Encoding: ISO8859-1
-Compacted: 1
+LangName: 1033 "" "" "" "" "" "Version 0.5" "" "" "Dr Anirban Mitra" "Dr Anirban Mitra" "A color variable font for Holi - the Indian Festival of Colors " "https://fonts.atipra.in" "https://github.com/mitradranirban" "This font is licensed under SIL Open Font Licence Version 1.1. The details of the licence is available with a FAQ at openfontlicense.org" "https://openfontlicense.org " "" "" "" "" "HAPPY HOLI"
+PickledDataWithLists: "(dp0
+Vxyz.fontra.lineMetricsHorizontalLayout.zones
+p1
+(dp2
+Vascender
+p3
+I16
+sVbaseline
+p4
+I-16
+sVcapHeight
+p5
+I16
+sVdescender
+p6
+I-16
+sVxHeight
+p7
+I16
+ss."
+Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -128
-AntiAlias: 0
+DisplaySize: -72
+AntiAlias: 1
 FitToEm: 0
-WinInfo: 20 10 4
-BeginChars: 280 52
+WinInfo: 0 18 7
+BeginPrivate: 0
+EndPrivate
+BeginChars: 132 132
 
 StartChar: A
-Encoding: 65 65 0
+Encoding: 0 65 0
 GlifName: A_
 Width: 914
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -79,109 +107,73 @@ SplineSet
  254 -7 l 257
  255 80 l 257
  321 288 l 257
- 518.968811035 288 l 257
+ 518.969 288 l 257
  579 80 l 257
 421 596 m 257
- 501.363494873 349 l 257
+ 501.363 349 l 257
  341 349 l 257
  421 596 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
 EndChar
 
 StartChar: A.0
-Encoding: 256 -1 1
+Encoding: 1 -1 1
 GlifName: A_.0
 Width: 914
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 Refer: 0 65 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
 EndChar
 
 StartChar: A.1
-Encoding: 257 -1 2
+Encoding: 2 -1 2
 GlifName: A_.1
 Width: 914
 VWidth: 0
-Flags: W
-LayerCount: 2
-Fore
-Refer: 50 42 S 0.05 0 0 0.05 164 471 2
-PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
-EndChar
-
-StartChar: A.2
-Encoding: 258 -1 3
-GlifName: A_.2
-Width: 914
-VWidth: 0
+GlyphClass: 2
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 50 42 S 0.05 0 0 0.05 621.439 552.75 2
-PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+Refer: 70 42 N 0.05 0 0 0.05 300.439 761.75 2
+EndChar
+
+StartChar: A.2
+Encoding: 3 -1 3
+GlifName: A_.2
+Width: 914
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 800.439 736.75 2
 EndChar
 
 StartChar: A.3
-Encoding: 259 -1 4
+Encoding: 4 -1 4
 GlifName: A_.3
 Width: 914
 VWidth: 0
-Flags: HWO
+GlyphClass: 2
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 50 42 S 0.05 0 0 0.05 419.439 364.75 2
-PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+Refer: 70 42 N 0.05 0 0 0.05 666.439 43.75 2
 EndChar
 
 StartChar: B
-Encoding: 66 66 5
+Encoding: 5 66 5
 GlifName: B_
 Width: 814
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -199,7 +191,7 @@ SplineSet
  755 328 525 407 517 409 c 256
  466 422 458 413 496 413 c 256
  501 413 692 493 692 584 c 256
- 692 652.840759277 638.758789062 701.789245605 563.602539062 721 c 257
+ 692 652.841 638.759 701.789 563.603 721 c 257
  779 721 l 257
  844 820 l 257
  35 820 l 257
@@ -207,115 +199,79 @@ SplineSet
  194 721 l 257
  193 80 l 257
 559 583.5 m 256
- 559 508.113131652 502 425 431 434 c 256
+ 559 508.113 502 425 431 434 c 256
  357 444 298 421 300 434 c 256
  305 465 308 685 310 713 c 256
  311 723 367 724 409 724 c 257
- 481 724 559 658.886868348 559 583.5 c 256
+ 481 724 559 658.887 559 583.5 c 256
 619 208 m 256
- 619 110.797884035 550 46 461 46 c 256
+ 619 110.798 550 46 461 46 c 256
  408 46 349 33 320 77 c 256
  300 106 297 169 297 208 c 256
  297 254 283 340 310 371 c 256
  339 406 420 371 467 371 c 256
- 555 371 619 305.202115965 619 208 c 256
+ 555 371 619 305.202 619 208 c 256
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
 EndChar
 
 StartChar: B.0
-Encoding: 260 -1 6
+Encoding: 6 -1 6
 GlifName: B_.0
 Width: 814
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 Refer: 5 66 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
 EndChar
 
 StartChar: B.1
-Encoding: 261 -1 7
+Encoding: 7 -1 7
 GlifName: B_.1
-Width: 914
+Width: 814
 VWidth: 0
-Flags: W
+GlyphClass: 2
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 50 42 N 0.05 0 0 0.05 164 471 2
-PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+Refer: 70 42 N 0.05 0 0 0.05 192.439 764.75 2
 EndChar
 
 StartChar: B.2
-Encoding: 262 -1 8
+Encoding: 8 -1 8
 GlifName: B_.2
-Width: 500
+Width: 814
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 50 42 N 0.05 0 0 0.05 262.439 289.75 2
-PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+Refer: 70 42 N 0.05 0 0 0.05 623.439 374.75 2
 EndChar
 
 StartChar: B.3
-Encoding: 263 -1 9
+Encoding: 9 -1 9
 GlifName: B_.3
-Width: 914
+Width: 814
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 50 42 N 0.05 0 0 0.05 262.439 289.75 2
-PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+Refer: 70 42 N 0.05 0 0 0.05 241.439 123.75 2
 EndChar
 
 StartChar: C
-Encoding: 67 67 10
+Encoding: 10 67 10
 GlifName: C_
 Width: 823
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -326,113 +282,77 @@ SplineSet
  164 542 359 708 486 708 c 256
  558 708 654 661 706 581 c 257
  696 713 l 257
- 691.484069824 715.75189209 686.928283691 718.419128418 682.336914062 721 c 257
+ 691.484 715.752 686.928 718.419 682.337 721 c 257
  778 721 l 257
  843 820 l 257
  35 820 l 257
  -30 721 l 257
- 292.725921631 721 l 257
- 155.199401855 651.893737793 33 522.640869141 33 378 c 256
+ 292.726 721 l 257
+ 155.199 651.894 33 522.641 33 378 c 256
  33 164 303 -4 492 -4 c 256
  570 -4 637 -1 726 3 c 257
  727 207 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
 EndChar
 
 StartChar: C.0
-Encoding: 264 -1 11
+Encoding: 11 -1 11
 GlifName: C_.0
 Width: 813
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 Refer: 10 67 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
 EndChar
 
 StartChar: C.1
-Encoding: 265 -1 12
+Encoding: 12 -1 12
 GlifName: C_.1
-Width: 914
+Width: 823
 VWidth: 0
-Flags: W
+GlyphClass: 2
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 50 42 N 0.05 0 0 0.05 164 471 2
-PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+Refer: 70 42 N 0.05 0 0 0.05 608.439 637.75 2
 EndChar
 
 StartChar: C.2
-Encoding: 266 -1 13
+Encoding: 13 -1 13
 GlifName: C_.2
 Width: 914
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 50 42 N 0.05 0 0 0.05 262.439 289.75 2
-PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+Refer: 70 42 N 0.05 0 0 0.05 96.4391 297.75 2
 EndChar
 
 StartChar: C.3
-Encoding: 267 -1 14
+Encoding: 14 -1 14
 GlifName: C_.3
-Width: 914
+Width: 823
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 50 42 N 0.05 0 0 0.05 262.439 289.75 2
-PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+Refer: 70 42 N 0.05 0 0 0.05 636.439 51.75 2
 EndChar
 
 StartChar: D
-Encoding: 68 68 15
+Encoding: 15 68 15
 GlifName: D_
 Width: 914
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -444,9 +364,9 @@ SplineSet
  65 -5 l 257
  194 -7 l 257
  433 4 l 257
- 437.901783526 1.24274676641 555.408510601 13.7173252146 559 15 c 256
+ 437.902 1.24275 555.409 13.7173 559 15 c 256
  640 45 806 175 806 373 c 256
- 806 532 721.734924316 673.904541016 623.446105957 721 c 257
+ 806 532 721.735 673.905 623.446 721 c 257
  879 721 l 257
  944 820 l 257
  35 820 l 257
@@ -454,108 +374,72 @@ SplineSet
  194 721 l 257
  193 80 l 257
 686 393.5 m 256
- 686 209.865320692 589.293505957 61 470 61 c 256
+ 686 209.865 589.294 61 470 61 c 256
  423 61 381 43 346 81 c 256
- 274.095352032 159.441434147 271.342284599 610.540449367 328 700 c 256
+ 274.095 159.441 271.342 610.54 328 700 c 256
  367 762 410 726 470 726 c 256
- 589.293505957 726 686 577.134679308 686 393.5 c 256
+ 589.294 726 686 577.135 686 393.5 c 256
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
 EndChar
 
 StartChar: D.0
-Encoding: 268 -1 16
+Encoding: 16 -1 16
 GlifName: D_.0
 Width: 914
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 Refer: 15 68 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
 EndChar
 
 StartChar: D.1
-Encoding: 269 -1 17
+Encoding: 17 -1 17
 GlifName: D_.1
 Width: 914
 VWidth: 0
-Flags: W
+GlyphClass: 2
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 50 42 N 0.05 0 0 0.05 164 471 2
-PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+Refer: 70 42 N 0.05 0 0 0.05 175.439 675.75 2
 EndChar
 
 StartChar: D.2
-Encoding: 270 -1 18
+Encoding: 18 -1 18
 GlifName: D_.2
 Width: 914
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 50 42 N 0.05 0 0 0.05 262.439 289.75 2
-PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+Refer: 70 42 N 0.05 0 0 0.05 738.439 399.75 2
 EndChar
 
 StartChar: D.3
-Encoding: 271 -1 19
+Encoding: 19 -1 19
 GlifName: D_.3
 Width: 914
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 50 42 N 0.05 0 0 0.05 262.439 289.75 2
-PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+Refer: 70 42 N 0.05 0 0 0.05 249.439 89.75 2
 EndChar
 
 StartChar: E
-Encoding: 69 69 20
+Encoding: 20 69 20
 GlifName: E_
 Width: 739
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -572,12 +456,12 @@ SplineSet
  593 82 l 257
  331 82 l 257
  332 320 l 257
- 331.962585449 335 l 257
+ 331.963 335 l 257
  499 335 l 257
  499 422 l 257
  501 492 l 257
  392 422 l 257
- 331.745635986 422 l 257
+ 331.746 422 l 257
  331 721 l 257
  704 721 l 257
  769 820 l 257
@@ -587,101 +471,65 @@ SplineSet
  193 80 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
 EndChar
 
 StartChar: E.0
-Encoding: 272 -1 21
+Encoding: 21 -1 21
 GlifName: E_.0
 Width: 739
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 Refer: 20 69 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
 EndChar
 
 StartChar: E.1
-Encoding: 273 -1 22
+Encoding: 22 -1 22
 GlifName: E_.1
-Width: 914
+Width: 739
 VWidth: 0
-Flags: W
+GlyphClass: 2
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 50 42 N 0.05 0 0 0.05 164 471 2
-PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+Refer: 70 42 N 0.05 0 0 0.05 95.4391 722.75 2
 EndChar
 
 StartChar: E.2
-Encoding: 274 -1 23
+Encoding: 23 -1 23
 GlifName: E_.2
 Width: 914
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 50 42 N 0.05 0 0 0.05 262.439 289.75 2
-PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+Refer: 70 42 N 0.05 0 0 0.05 487.439 370.75 2
 EndChar
 
 StartChar: E.3
-Encoding: 275 -1 24
+Encoding: 24 -1 24
 GlifName: E_.3
-Width: 914
+Width: 739
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 50 42 N 0.05 0 0 0.05 262.439 289.75 2
-PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+Refer: 70 42 N 0.05 0 0 0.05 169.439 9.75 2
 EndChar
 
 StartChar: F
-Encoding: 70 70 25
+Encoding: 25 70 25
 GlifName: F_
 Width: 815
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -694,12 +542,12 @@ SplineSet
  333 -10 l 257
  331 82 l 257
  332 320 l 257
- 331.962585449 335 l 257
+ 331.963 335 l 257
  551 335 l 257
  551 422 l 257
  553 492 l 257
  468 422 l 257
- 331.745635986 422 l 257
+ 331.746 422 l 257
  331 721 l 257
  780 721 l 257
  845 820 l 257
@@ -709,101 +557,65 @@ SplineSet
  193 80 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
 EndChar
 
 StartChar: F.0
-Encoding: 276 -1 26
+Encoding: 26 -1 26
 GlifName: F_.0
 Width: 815
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 Refer: 25 70 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
 EndChar
 
 StartChar: F.1
-Encoding: 277 -1 27
+Encoding: 27 -1 27
 GlifName: F_.1
-Width: 914
+Width: 815
 VWidth: 0
-Flags: W
+GlyphClass: 2
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 50 42 N 0.05 0 0 0.05 164 471 2
-PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+Refer: 70 42 N 0.05 0 0 0.05 86.4391 726.75 2
 EndChar
 
 StartChar: F.2
-Encoding: 278 -1 28
+Encoding: 28 -1 28
 GlifName: F_.2
 Width: 914
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 50 42 N 0.05 0 0 0.05 262.439 289.75 2
-PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+Refer: 70 42 N 0.05 0 0 0.05 746.439 735.75 2
 EndChar
 
 StartChar: F.3
-Encoding: 279 -1 29
+Encoding: 29 -1 29
 GlifName: F_.3
-Width: 914
+Width: 815
 VWidth: 0
+GlyphClass: 2
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 50 42 N 0.05 0 0 0.05 262.439 289.75 2
-PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+Refer: 70 42 N 0.05 0 0 0.05 270.439 77.75 2
 EndChar
 
 StartChar: G
-Encoding: 71 71 30
+Encoding: 30 71 30
 GlifName: G_
 Width: 952
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -814,41 +626,49 @@ SplineSet
  592 385 l 257
  594 315 l 257
  594 228 l 257
- 672 226.79069519 l 257
- 672 135.296203613 l 257
- 616.361206055 77.0786743164 544.920776367 35 484 35 c 256
+ 672 226.791 l 257
+ 672 135.296 l 257
+ 616.361 77.0787 544.921 35 484 35 c 256
  357 35 164 198 164 370 c 256
  164 542 359 708 486 708 c 256
  558 708 654 661 706 581 c 257
  696 713 l 257
- 691.484069824 715.75189209 686.928283691 718.419128418 682.336914062 721 c 257
+ 691.484 715.752 686.928 718.419 682.337 721 c 257
  917 721 l 257
  982 820 l 257
  35 820 l 257
  -30 721 l 257
- 292.725921631 721 l 257
- 155.199401855 651.893737793 33 522.640869141 33 378 c 256
+ 292.726 721 l 257
+ 155.199 651.894 33 522.641 33 378 c 256
  33 164 303 -4 492 -4 c 256
- 568.954406738 -4 651.748962402 25.2010688782 722.137695312 74 c 257
+ 568.954 -4 651.749 25.2011 722.138 74 c 257
  727 74 l 257
  727 207 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
+EndChar
+
+StartChar: G.0
+Encoding: 31 -1 31
+GlifName: G_.0
+Width: 952
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 30 71 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+."
 EndChar
 
 StartChar: H
-Encoding: 72 72 31
+Encoding: 32 72 32
 GlifName: H_
 Width: 942
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -857,7 +677,7 @@ SplineSet
  -23 721 l 257
  135 721 l 257
  135 82 l 257
- 99.8028182983 82 l 257
+ 99.8028 82 l 257
  16 152 l 257
  18 82 l 257
  18 -5 l 257
@@ -868,7 +688,7 @@ SplineSet
  908 -5 l 257
  908 82 l 257
  910 152 l 257
- 826.19720459 82 l 257
+ 826.197 82 l 257
  789 82 l 257
  789 721 l 257
  897 721 l 257
@@ -884,21 +704,29 @@ SplineSet
  42 820 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
+EndChar
+
+StartChar: H.0
+Encoding: 33 -1 33
+GlifName: H_.0
+Width: 925
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 32 72 N 1 0 0 1 -7 0 2
+PickledDataWithLists: "(dp0
+."
 EndChar
 
 StartChar: I
-Encoding: 73 73 32
+Encoding: 34 73 34
 GlifName: I_
 Width: 534
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -912,7 +740,7 @@ SplineSet
  460 -5 l 257
  460 82 l 257
  462 152 l 257
- 378.19720459 82 l 257
+ 378.197 82 l 257
  341 82 l 257
  341 721 l 257
  489 721 l 257
@@ -923,22 +751,31 @@ SplineSet
  203 80 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
+EndChar
+
+StartChar: I.0
+Encoding: 35 -1 35
+GlifName: I_.0
+Width: 514
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 34 73 N 1 0 0 1 -10 0 2
+PickledDataWithLists: "(dp0
+."
 EndChar
 
 StartChar: J
-Encoding: 74 74 33
+Encoding: 36 74 36
 GlifName: J_
 Width: 534
 VWidth: 0
+GlyphClass: 2
 Flags: W
+VStem: 297 146<-6 75> 298 137<721 721>
 LayerCount: 2
 Fore
 SplineSet
@@ -958,21 +795,47 @@ SplineSet
  297 75 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
+Vcom.fontlab.hintData
 p1
 (dp2
-Vholihai_default/public.default
+Vvhints
 p3
-Vdefault
-p4
-ss."
+(lp4
+(dp5
+Vposition
+p6
+I297
+sVwidth
+p7
+I146
+sa(dp8
+g6
+I298
+sg7
+I137
+sass."
+EndChar
+
+StartChar: J.0
+Encoding: 37 -1 37
+GlifName: J_.0
+Width: 514
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 36 74 N 1 0 0 1 -10 0 2
+PickledDataWithLists: "(dp0
+."
 EndChar
 
 StartChar: K
-Encoding: 75 75 34
+Encoding: 38 75 38
 GlifName: K_
 Width: 942
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -981,7 +844,7 @@ SplineSet
  -23 721 l 257
  135 721 l 257
  135 82 l 257
- 99.8028182983 82 l 257
+ 99.8028 82 l 257
  16 152 l 257
  18 82 l 257
  18 -5 l 257
@@ -1009,21 +872,29 @@ SplineSet
  42 820 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
+EndChar
+
+StartChar: K.0
+Encoding: 39 -1 39
+GlifName: K_.0
+Width: 925
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 38 75 N 1 0 0 1 -7 0 2
+PickledDataWithLists: "(dp0
+."
 EndChar
 
 StartChar: L
-Encoding: 76 76 35
+Encoding: 40 76 40
 GlifName: L_
 Width: 626
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -1044,21 +915,29 @@ SplineSet
  138 367 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
+EndChar
+
+StartChar: L.0
+Encoding: 41 -1 41
+GlifName: L_.0
+Width: 586
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 40 76 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+."
 EndChar
 
 StartChar: M
-Encoding: 77 77 36
+Encoding: 42 77 42
 GlifName: M_
 Width: 1048
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -1067,7 +946,7 @@ SplineSet
  -30 721 l 257
  128 721 l 257
  128 82 l 257
- 92.8028182983 82 l 257
+ 92.8028 82 l 257
  9 152 l 257
  11 82 l 257
  11 -5 l 257
@@ -1096,21 +975,29 @@ SplineSet
  35 820 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
+EndChar
+
+StartChar: M.0
+Encoding: 43 -1 43
+GlifName: M_.0
+Width: 1048
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 42 77 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+."
 EndChar
 
 StartChar: N
-Encoding: 78 78 37
+Encoding: 44 78 44
 GlifName: N_
 Width: 929
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -1119,7 +1006,7 @@ SplineSet
  -30 721 l 257
  128 721 l 257
  128 82 l 257
- 92.8028182983 82 l 257
+ 92.8028 82 l 257
  9 152 l 257
  11 82 l 257
  11 -5 l 257
@@ -1146,21 +1033,29 @@ SplineSet
  35 820 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
+EndChar
+
+StartChar: N.0
+Encoding: 45 -1 45
+GlifName: N_.0
+Width: 929
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 44 78 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+."
 EndChar
 
 StartChar: O
-Encoding: 79 79 38
+Encoding: 46 79 46
 GlifName: O_
 Width: 972
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -1182,21 +1077,29 @@ SplineSet
  643 718 783 541 783 369 c 256
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
+EndChar
+
+StartChar: O.0
+Encoding: 47 -1 47
+GlifName: O_.0
+Width: 952
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 46 79 N 1 0 0 1 -10 0 2
+PickledDataWithLists: "(dp0
+."
 EndChar
 
 StartChar: P
-Encoding: 80 80 39
+Encoding: 48 80 48
 GlifName: P_
 Width: 734
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -1209,10 +1112,10 @@ SplineSet
  204 -7 l 257
  342 -6 l 257
  341 82 l 257
- 341 348.628204346 l 257
- 369.914337158 336.664306641 402.087921143 330 436 330 c 256
- 562 330 666 445.453186035 666 559.5 c 256
- 666 624.879882812 632.526123047 683.163208008 580.286132812 721 c 257
+ 341 348.628 l 257
+ 369.914 336.664 402.088 330 436 330 c 256
+ 562 330 666 445.453 666 559.5 c 256
+ 666 624.88 632.526 683.163 580.286 721 c 257
  689 721 l 257
  754 820 l 257
  45 820 l 257
@@ -1221,177 +1124,207 @@ SplineSet
  203 80 l 257
 535 555 m 256
  535 471 415 413 350 413 c 256
- 346.982696533 413 343.980957031 413.155609131 341 413.460906982 c 257
+ 346.983 413 343.981 413.156 341 413.461 c 257
  341 721 l 257
- 410.50793457 721 l 257
- 470.152618408 690.724853516 535 619.67791748 535 555 c 256
+ 410.508 721 l 257
+ 470.153 690.725 535 619.678 535 555 c 256
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
+EndChar
+
+StartChar: P.0
+Encoding: 49 -1 49
+GlifName: P_.0
+Width: 734
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 48 80 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+."
 EndChar
 
 StartChar: Q
-Encoding: 81 81 40
+Encoding: 50 81 50
 GlifName: Q_
 Width: 972
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
 45 820 m 257
  -20 721 l 257
- 311.224365234 721 l 257
- 187.476699829 653.066223145 86 526.750305176 86 383 c 256
+ 311.224 721 l 257
+ 187.477 653.066 86 526.75 86 383 c 256
  86 169 313 -4 502 -4 c 256
- 534.358398438 -4 567.684143066 1.12966442108 600.69744873 10.7064743042 c 257
+ 534.358 -4 567.684 1.12966 600.697 10.7065 c 257
  731 -150 l 257
  901 -155 l 257
  903 2 l 257
  819 -68 l 257
  782 -68 l 257
- 686.957763672 46.2334823608 l 257
- 811.295288086 113.174133301 913 240.153533936 913 385 c 256
- 913 528.385803223 814.261108398 653.536010742 692.421813965 721 c 257
+ 686.958 46.2335 l 257
+ 811.295 113.174 913 240.154 913 385 c 256
+ 913 528.386 814.261 653.536 692.422 721 c 257
  927 721 l 257
  992 820 l 257
  45 820 l 257
 783 369 m 256
- 783 257.931213379 719.61730957 158.538208008 640.513000488 102.056465149 c 257
+ 783 257.931 719.617 158.538 640.513 102.056 c 257
  574 182 l 257
  461 183 l 257
- 559.514160156 61.4992332458 l 257
- 540.843261719 55.9462394714 522.165893555 53 504 53 c 256
+ 559.514 61.4992 l 257
+ 540.843 55.9462 522.166 53 504 53 c 256
  377 53 204 226 204 398 c 256
  204 570 389 718 516 718 c 256
  643 718 783 541 783 369 c 256
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
+EndChar
+
+StartChar: Q.0
+Encoding: 51 -1 51
+GlifName: Q_.0
+Width: 972
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 50 81 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+."
 EndChar
 
 StartChar: R
-Encoding: 82 82 41
+Encoding: 52 82 52
 GlifName: R_
-Width: 772
+Width: 762
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-203 80 m 257
- 157 82 l 257
- 73 152 l 257
- 75 82 l 257
- 75 -5 l 257
- 204 -7 l 257
- 342 -6 l 257
- 341 82 l 257
- 341 343.081268311 l 257
- 620 0 l 257
- 790 -5 l 257
- 792 152 l 257
- 708 82 l 257
- 671 82 l 257
- 463.006896973 331.773376465 l 257
- 576.522888184 346.72076416 666 453.715393066 666 559.5 c 256
- 666 624.879882812 632.526123047 683.163208008 580.286132812 721 c 257
- 689 721 l 257
- 754 820 l 257
- 45 820 l 257
- -20 721 l 257
- 204 721 l 257
- 203 80 l 257
-535 555 m 256
- 535 471 415 413 350 413 c 256
- 346.982696533 413 343.980957031 413.155609131 341 413.460906982 c 257
- 341 721 l 257
- 410.50793457 721 l 257
- 470.152618408 690.724853516 535 619.67791748 535 555 c 256
-341 348.34286499 m 257
- 341 348.628204346 l 257
- 341.190856934 348.549224854 341.381866455 348.470489502 341.573028564 348.391967773 c 257
- 341 348.34286499 l 257
+193 80 m 257
+ 147 82 l 257
+ 63 152 l 257
+ 65 82 l 257
+ 65 -5 l 257
+ 194 -7 l 257
+ 332 -6 l 257
+ 331 82 l 257
+ 331 343.081 l 257
+ 610 0 l 257
+ 780 -5 l 257
+ 782 152 l 257
+ 698 82 l 257
+ 661 82 l 257
+ 453.007 331.773 l 257
+ 566.523 346.721 656 453.715 656 559.5 c 256
+ 656 624.88 622.526 683.163 570.286 721 c 257
+ 727 721 l 257
+ 792 820 l 257
+ 35 820 l 257
+ -30 721 l 257
+ 194 721 l 257
+ 193 80 l 257
+525 555 m 256
+ 525 471 405 413 340 413 c 256
+ 336.983 413 333.981 413.156 331 413.461 c 257
+ 331 721 l 257
+ 400.508 721 l 257
+ 460.153 690.725 525 619.678 525 555 c 256
+331 348.343 m 257
+ 331 348.628 l 257
+ 331.191 348.549 331.382 348.47 331.573 348.392 c 257
+ 331 348.343 l 257
 EndSplineSet
+EndChar
+
+StartChar: R.0
+Encoding: 53 -1 53
+GlifName: R_.0
+Width: 772
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 52 82 N 1 0 0 1 0 0 2
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
 EndChar
 
 StartChar: S
-Encoding: 83 83 42
+Encoding: 54 83 54
 GlifName: S_
 Width: 672
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
 45 820 m 257
  -20 721 l 257
- 152.344802856 721 l 257
- 125.877189636 695.688232422 108.706550598 664.424072266 103 631 c 256
+ 152.345 721 l 257
+ 125.877 695.688 108.707 664.424 103 631 c 256
  77 475 241 361 255 357 c 257
  257 357 490 234 490 173 c 256
  490 113 381 25 295 25 c 256
- 240.64453125 25 181.745407104 52.8299369812 140.699661255 78.526184082 c 257
+ 240.645 25 181.745 52.8299 140.7 78.5262 c 257
  132 95 l 257
  48 165 l 257
  50 95 l 257
  50 8 l 257
- 155.82767454 6.35926075732 259.963280609 -10 366 -10 c 256
+ 155.828 6.35926 259.963 -10 366 -10 c 256
  498 -10 640 169 603 258 c 256
  586 299 399 424 389 430 c 256
  331 465 187 565 187 621 c 256
- 187 669.430847168 227.428039551 709.920471191 281.294616699 721 c 257
- 336.138244629 721 l 257
- 406.346679688 705.64239502 504 634.583312988 504 584 c 256
- 504 573.676086426 490 579 494 575 c 257
+ 187 669.431 227.428 709.92 281.295 721 c 257
+ 336.138 721 l 257
+ 406.347 705.642 504 634.583 504 584 c 256
+ 504 573.676 490 579 494 575 c 257
  516 543 l 257
- 560 581 539.821463271 678.284846882 494.123687744 721 c 257
+ 560 581 539.821 678.285 494.124 721 c 257
  627 721 l 257
  692 820 l 257
  45 820 l 257
-88.4068603516 119.111503601 m 257
- 87.5368270874 120.503486633 87.6945419312 121.18649292 89 121 c 257
- 88.8017349243 120.366661072 88.604019165 119.737174988 88.4068603516 119.111503601 c 257
+88.4069 119.112 m 257
+ 87.5368 120.503 87.6945 121.186 89 121 c 257
+ 88.8017 120.367 88.604 119.737 88.4069 119.112 c 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
+EndChar
+
+StartChar: S.0
+Encoding: 55 -1 55
+GlifName: S_.0
+Width: 672
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 54 83 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+."
 EndChar
 
 StartChar: T
-Encoding: 84 84 43
+Encoding: 56 84 56
 GlifName: T_
 Width: 772
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -1416,21 +1349,29 @@ SplineSet
  598 -5 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
+EndChar
+
+StartChar: T.0
+Encoding: 57 -1 57
+GlifName: T_.0
+Width: 772
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 56 84 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+."
 EndChar
 
 StartChar: U
-Encoding: 85 85 44
+Encoding: 58 85 58
 GlifName: U_
 Width: 945
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -1445,7 +1386,7 @@ SplineSet
  145 191 l 257
  152 150 168 109 169 111 c 256
  170 114 253 -8 404 -8 c 256
- 548 -8 691.228942871 68.2990875244 701.302001953 152.314788818 c 257
+ 548 -8 691.229 68.2991 701.302 152.315 c 257
  702 152 l 257
  714 207 l 257
  725 721 l 257
@@ -1454,28 +1395,36 @@ SplineSet
  562 820 l 257
  497 721 l 257
  655 721 l 257
- 651.012268066 176.67515564 l 257
- 650.391967773 173.985198975 650 172.208694458 650 172 c 256
- 650 111.800964355 576 56 468 56 c 256
+ 651.012 176.675 l 257
+ 650.392 173.985 650 172.209 650 172 c 256
+ 650 111.801 576 56 468 56 c 256
  360 56 273 104 273 165 c 256
- 273 169.904860702 270 176 271 176 c 257
+ 273 169.905 270 176 271 176 c 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
+EndChar
+
+StartChar: U.0
+Encoding: 59 -1 59
+GlifName: U_.0
+Width: 945
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 58 85 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+."
 EndChar
 
 StartChar: V
-Encoding: 86 86 45
+Encoding: 60 86 60
 GlifName: V_
 Width: 942
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -1499,21 +1448,29 @@ SplineSet
  42 820 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
+EndChar
+
+StartChar: V.0
+Encoding: 61 -1 61
+GlifName: V_.0
+Width: 942
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 60 86 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+."
 EndChar
 
 StartChar: W
-Encoding: 87 87 46
+Encoding: 62 87 62
 GlifName: W_
 Width: 1370
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -1549,21 +1506,29 @@ SplineSet
  42 820 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
+EndChar
+
+StartChar: W.0
+Encoding: 63 -1 63
+GlifName: W_.0
+Width: 1370
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 62 87 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+."
 EndChar
 
 StartChar: X
-Encoding: 88 88 47
+Encoding: 64 88 64
 GlifName: X_
 Width: 942
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -1573,7 +1538,7 @@ SplineSet
  118 721 l 257
  361 387 l 257
  122 76 l 257
- 99.8028182983 82 l 257
+ 99.8028 82 l 257
  16 152 l 257
  18 82 l 257
  18 -5 l 257
@@ -1599,21 +1564,29 @@ SplineSet
  42 820 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
+EndChar
+
+StartChar: X.0
+Encoding: 65 -1 65
+GlifName: X_.0
+Width: 942
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 64 88 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+."
 EndChar
 
 StartChar: Y
-Encoding: 89 89 48
+Encoding: 66 89 66
 GlifName: Y_
 Width: 945
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -1647,21 +1620,29 @@ SplineSet
  483 319 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
+EndChar
+
+StartChar: Y.0
+Encoding: 67 -1 67
+GlifName: Y_.0
+Width: 945
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 66 89 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+."
 EndChar
 
 StartChar: Z
-Encoding: 90 90 49
+Encoding: 68 90 68
 GlifName: Z_
 Width: 753
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -1682,21 +1663,29 @@ SplineSet
  50 80 l 257
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
+EndChar
+
+StartChar: Z.0
+Encoding: 69 -1 69
+GlifName: Z_.0
+Width: 753
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 68 90 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+."
 EndChar
 
 StartChar: asterisk
-Encoding: 42 42 50
+Encoding: 70 42 70
 GlifName: asterisk
 Width: 500
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -1716,33 +1705,740 @@ SplineSet
  420 255 315 285 315 325 c 256
 EndSplineSet
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
 EndChar
 
 StartChar: space
-Encoding: 32 32 51
+Encoding: 71 32 71
 GlifName: space
 Width: 500
 VWidth: 0
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 PickledDataWithLists: "(dp0
-Vxyz.fontra.layer-names
-p1
-(dp2
-Vholihai_default/public.default
-p3
-Vdefault
-p4
-ss."
+."
+EndChar
+
+StartChar: G.1
+Encoding: 72 -1 72
+GlifName: G_.1
+Width: 952
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 146.439 641.75 2
+EndChar
+
+StartChar: G.2
+Encoding: 73 -1 73
+GlifName: G_.2
+Width: 914
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 776.439 714.75 2
+EndChar
+
+StartChar: G.3
+Encoding: 74 -1 74
+GlifName: G_.3
+Width: 952
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 483.439 4.75 2
+EndChar
+
+StartChar: H.1
+Encoding: 75 -1 75
+GlifName: H_.1
+Width: 942
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 753.439 611.75 2
+EndChar
+
+StartChar: H.2
+Encoding: 76 -1 76
+GlifName: H_.2
+Width: 914
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 160.439 327.75 2
+EndChar
+
+StartChar: H.3
+Encoding: 77 -1 77
+GlifName: H_.3
+Width: 942
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 682.439 34.75 2
+EndChar
+
+StartChar: I.1
+Encoding: 78 -1 78
+GlifName: I_.1
+Width: 534
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 426.439 760.75 2
+EndChar
+
+StartChar: J.1
+Encoding: 79 -1 79
+GlifName: J_.1
+Width: 534
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 372.439 306.75 2
+EndChar
+
+StartChar: K.1
+Encoding: 80 -1 80
+GlifName: K_.1
+Width: 942
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 172.439 361.75 2
+EndChar
+
+StartChar: L.1
+Encoding: 81 -1 81
+GlifName: L_.1
+Width: 626
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 188.439 433.75 2
+EndChar
+
+StartChar: M.1
+Encoding: 82 -1 82
+GlifName: M_.1
+Width: 1048
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 156.439 705.75 2
+EndChar
+
+StartChar: N.1
+Encoding: 83 -1 83
+GlifName: N_.1
+Width: 929
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 173.439 88.75 2
+EndChar
+
+StartChar: O.1
+Encoding: 84 -1 84
+GlifName: O_.1
+Width: 972
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 309.439 760.75 2
+EndChar
+
+StartChar: P.1
+Encoding: 85 -1 85
+GlifName: P_.1
+Width: 734
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 89.4391 60.75 2
+EndChar
+
+StartChar: Q.1
+Encoding: 86 -1 86
+GlifName: Q_.1
+Width: 972
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 167.439 228.75 2
+EndChar
+
+StartChar: R.1
+Encoding: 87 -1 87
+GlifName: R_.1
+Width: 772
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 138.439 739.75 2
+EndChar
+
+StartChar: S.1
+Encoding: 88 -1 88
+GlifName: S_.1
+Width: 672
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 160.439 67.75 2
+EndChar
+
+StartChar: T.1
+Encoding: 89 -1 89
+GlifName: T_.1
+Width: 772
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 404.439 27.75 2
+EndChar
+
+StartChar: U.1
+Encoding: 90 -1 90
+GlifName: U_.1
+Width: 945
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 426.439 760.75 2
+EndChar
+
+StartChar: V.1
+Encoding: 91 -1 91
+GlifName: V_.1
+Width: 942
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 127.439 643.75 2
+EndChar
+
+StartChar: W.1
+Encoding: 92 -1 92
+GlifName: W_.1
+Width: 1370
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 914.439 105.75 2
+EndChar
+
+StartChar: X.1
+Encoding: 93 -1 93
+GlifName: X_.1
+Width: 942
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.0025 0 0 0.0025 177.122 485.488 2
+EndChar
+
+StartChar: Y.1
+Encoding: 94 -1 94
+GlifName: Y_.1
+Width: 945
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 170.439 686.75 2
+EndChar
+
+StartChar: Z.1
+Encoding: 95 -1 95
+GlifName: Z_.1
+Width: 753
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 156.439 679.75 2
+EndChar
+
+StartChar: I.2
+Encoding: 96 -1 96
+GlifName: I_.2
+Width: 534
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 180.439 424.75 2
+EndChar
+
+StartChar: J.2
+Encoding: 97 -1 97
+GlifName: J_.2
+Width: 534
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 75.4391 705.75 2
+EndChar
+
+StartChar: K.2
+Encoding: 98 -1 98
+GlifName: K_.2
+Width: 942
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 725.439 713.75 2
+EndChar
+
+StartChar: L.2
+Encoding: 99 -1 99
+GlifName: L_.2
+Width: 626
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 426.439 760.75 2
+EndChar
+
+StartChar: M.2
+Encoding: 100 -1 100
+GlifName: M_.2
+Width: 1048
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 496.439 119.75 2
+EndChar
+
+StartChar: N.2
+Encoding: 101 -1 101
+GlifName: N_.2
+Width: 929
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 636.439 686.75 2
+EndChar
+
+StartChar: O.2
+Encoding: 102 -1 102
+GlifName: O_.2
+Width: 972
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 214.439 112.75 2
+EndChar
+
+StartChar: P.2
+Encoding: 103 -1 103
+GlifName: P_.2
+Width: 734
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 279.439 680.75 2
+EndChar
+
+StartChar: Q.2
+Encoding: 104 -1 104
+GlifName: Q_.2
+Width: 972
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 469.439 708.75 2
+EndChar
+
+StartChar: R.2
+Encoding: 105 -1 105
+GlifName: R_.2
+Width: 772
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 610.439 495.75 2
+EndChar
+
+StartChar: S.2
+Encoding: 106 -1 106
+GlifName: S_.2
+Width: 672
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 302.439 343.75 2
+EndChar
+
+StartChar: T.2
+Encoding: 107 -1 107
+GlifName: T_.2
+Width: 772
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 120.439 764.75 2
+EndChar
+
+StartChar: U.2
+Encoding: 108 -1 108
+GlifName: U_.2
+Width: 945
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 469.439 9.75 2
+EndChar
+
+StartChar: V.2
+Encoding: 109 -1 109
+GlifName: V_.2
+Width: 942
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 375.439 112.75 2
+EndChar
+
+StartChar: W.2
+Encoding: 110 -1 110
+GlifName: W_.2
+Width: 1370
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 333.439 41.75 2
+EndChar
+
+StartChar: X.2
+Encoding: 111 -1 111
+GlifName: X_.2
+Width: 942
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.0025 0 0 0.0025 177.122 485.488 2
+EndChar
+
+StartChar: Y.2
+Encoding: 112 -1 112
+GlifName: Y_.2
+Width: 945
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 432.439 48.75 2
+EndChar
+
+StartChar: Z.2
+Encoding: 113 -1 113
+GlifName: Z_.2
+Width: 753
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 340.439 360.75 2
+EndChar
+
+StartChar: I.3
+Encoding: 114 -1 114
+GlifName: I_.3
+Width: 534
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 422.439 4.75 2
+EndChar
+
+StartChar: J.3
+Encoding: 115 -1 115
+GlifName: J_.3
+Width: 534
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 254.439 -58.25 2
+EndChar
+
+StartChar: K.3
+Encoding: 116 -1 116
+GlifName: K_.3
+Width: 942
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 632.439 21.75 2
+EndChar
+
+StartChar: L.3
+Encoding: 117 -1 117
+GlifName: L_.3
+Width: 626
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 405.439 34.75 2
+EndChar
+
+StartChar: M.3
+Encoding: 118 -1 118
+GlifName: M_.3
+Width: 1048
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 854.439 669.75 2
+EndChar
+
+StartChar: N.3
+Encoding: 119 -1 119
+GlifName: N_.3
+Width: 929
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 704.439 71.75 2
+EndChar
+
+StartChar: O.3
+Encoding: 120 -1 120
+GlifName: O_.3
+Width: 972
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 778.439 156.75 2
+EndChar
+
+StartChar: P.3
+Encoding: 121 -1 121
+GlifName: P_.3
+Width: 734
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 553.439 446.75 2
+EndChar
+
+StartChar: Q.3
+Encoding: 122 -1 122
+GlifName: Q_.3
+Width: 972
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 737.439 -146.25 2
+EndChar
+
+StartChar: R.3
+Encoding: 123 -1 123
+GlifName: R_.3
+Width: 772
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 606.439 60.75 2
+EndChar
+
+StartChar: S.3
+Encoding: 124 -1 124
+GlifName: S_.3
+Width: 672
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 503.439 663.75 2
+EndChar
+
+StartChar: T.3
+Encoding: 125 -1 125
+GlifName: T_.3
+Width: 772
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 610.439 707.75 2
+EndChar
+
+StartChar: U.3
+Encoding: 126 -1 126
+GlifName: U_.3
+Width: 945
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 731.439 151.75 2
+EndChar
+
+StartChar: V.3
+Encoding: 127 -1 127
+GlifName: V_.3
+Width: 942
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 716.439 665.75 2
+EndChar
+
+StartChar: W.3
+Encoding: 128 -1 128
+GlifName: W_.3
+Width: 1370
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 630.439 721.75 2
+EndChar
+
+StartChar: X.3
+Encoding: 129 -1 129
+GlifName: X_.3
+Width: 942
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 426.439 760.75 2
+EndChar
+
+StartChar: Y.3
+Encoding: 130 -1 130
+GlifName: Y_.3
+Width: 945
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 737.439 714.75 2
+EndChar
+
+StartChar: Z.3
+Encoding: 131 -1 131
+GlifName: Z_.3
+Width: 753
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 70 42 N 0.05 0 0 0.05 616.439 41.75 2
 EndChar
 EndChars
 EndSplineFont

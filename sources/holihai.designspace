@@ -1,6 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="5.0">
+  <axes>
+    <axis tag="CLOR" name="Colour" minimum="0" maximum="3" default="0"/>
+  </axes>
   <sources>
-    <source filename="holihai_default.ufo" name="::fontra000-8e33110a" familyname="holihai" stylename="default"/>
+    <source filename="holihai_default.ufo" name="::fontra000-8e33110a::fontra000-cdb68dc1" familyname="holihai" stylename="default">
+      <location>
+        <dimension name="Colour" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="holihai_stage1.ufo" name="::fontra001-d3a165b2" familyname="holihai" stylename="1">
+      <location>
+        <dimension name="Colour" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="holihai_stage2.ufo" name="::fontra002-b7d379b4" familyname="holihai" stylename="2">
+      <location>
+        <dimension name="Colour" xvalue="2"/>
+      </location>
+    </source>
+    <source filename="holihai_stage3.ufo" name="::fontra003-c4578475" familyname="holihai" stylename="3">
+      <location>
+        <dimension name="Colour" xvalue="3"/>
+      </location>
+    </source>
   </sources>
 </designspace>

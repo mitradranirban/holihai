@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H.2" format="2">
+  <advance width="914"/>
+  <outline>
+    <component base="asterisk" xScale="0.05" yScale="0.05" xOffset="160.439" yOffset="327.75"/>
+  </outline>
+</glyph>
