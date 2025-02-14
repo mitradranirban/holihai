@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Holi Hai Variable Color Font </title>
+		<style>
+                @font-face {
+                    font-family: HoliHai-Regular;
+                    src: url("HoliHai-VF.woff2") format("woff2-variations");
+                    font-weight: normal;
+                    font-style: normal;
+                    font-display: swap;
+                }
+                a:link {
+                    font-family: HoliHai-Regular;
+                    font-variation-settings: "CLOR" 0;
+                }
+                a:hover {
+                    font-family: HoliHai-Regular;
+                    font-variation-settings: "CLOR" 1;
+                }
+                a:active{
+                    font-family:HoliHai-Regular;
+                    font-variation-settings: "CLOR" 3;
+                }
+                @keyframes holi-colours {
+                    0% {font-variation-settings: "CLOR" 0;
+                    }
+                    25% {font-variation-settings: "CLOR" 1;
+                    }
+                    50% {font-variation-settings: "CLOR" 2;
+                    }
+                    75% {font-variation-settings: "CLOR" 3;
+                    }
+                }
+                .holicolours {
+                    font-family: HoliHai-Regular;
+                    font-variation-settings: "CLOR" 0;
+                    font-size: 4em;
+                    animation: holi-colours 4s infinite ease;
+                    animation-fill-mode: both;
+            }
+        </style>
+	</head>
+	<body>
+        <h1>HOLI HAI! A Color Variable Font with Splashes of Color</h1>
+        <p>Holi hai is part of tiny fun font series. It is dedicated to Holi - Indian Festival of Colours</p>
+        <p>Here each character will have splashes of colour on changing the custom COLR axis </p>
+        <h2>Preview</h2>
+        <p> <span class="holicolours"> HAPPY HOLI </span></p>
+        <p> For Details visit our <a href="https://github.com/mitradranirban/holihai.git">GITHUB PAGE</a></p>
+    </body>
+</html>
+
